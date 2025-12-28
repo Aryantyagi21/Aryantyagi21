@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm currently working in xploresports pvt. ltd. as a cloud infrastructure support intern. I am a certified aws cloud practitioner, certified scrum master as well as devops engineer from IIT roorkee. I am actively looking for postions for Infrastructure engineer, cloud engineer and DevOps.<br>
+I'm currently working in xploresports pvt. ltd. as a cloud infrastructure support intern. 
+I am an Entry-level AWS Infrastructure / Site Reliability / DevOps Engineer with hands-on experience optimizing AWS environments and automating deployments using tools like Terraform, Ansible, and Docker. My expertise spans designing and managing CI/CD pipelines, containerization with Kubernetes, and implementing cost-saving solutions in cloud architectures.
+
+I thrive on solving complex technical challenges, collaborating with cross-functional teams, and streamlining operations to improve system reliability. My background includes developing automation scripts that boost efficiency, authoring comprehensive technical documentation, and leading projects that bridge the gap between development and operations.
+
+Certified in DevOps Engineering (Intellipaat & IIT Roorkee) and as a Scrum Master (CSM), I am dedicated to continuous learning and operational excellence in cloud and DevOps environments. My passion for technology extends to personal projects, where I build and deploy AI-powered solutions and scalable backend services.
+
+If you’re looking for someone with a proven track record in cloud support, automation, and DevOps best practices, let’s connect!
 
 
 ## 🌐 Socials:
