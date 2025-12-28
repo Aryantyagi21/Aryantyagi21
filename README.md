@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working in xploresports pvt. ltd. as a cloud infrastructure support intern. I am a certifies aws cloud practitioner, certified scrum master as well as devops engineer from IIT roorkee. I am actively looking for postions for Infrastructure engineer, cloud engineer and DevOps.<br>
+I'm currently working in xploresports pvt. ltd. as a cloud infrastructure support intern. I am a certified aws cloud practitioner, certified scrum master as well as devops engineer from IIT roorkee. I am actively looking for postions for Infrastructure engineer, cloud engineer and DevOps.<br>
 
 
 ## 🌐 Socials:
