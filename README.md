@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working in xploresports pvt. ltd. as a cloud infrastructure support intern. 
+I'm currently working in Xplore Sports Pvt. Ltd. as a cloud infrastructure support intern. 
 I am an Entry-level AWS Infrastructure / Site Reliability / DevOps Engineer with hands-on experience optimizing AWS environments and automating deployments using tools like Terraform, Ansible, and Docker. My expertise spans designing and managing CI/CD pipelines, containerization with Kubernetes, and implementing cost-saving solutions in cloud architectures.
 
 I thrive on solving complex technical challenges, collaborating with cross-functional teams, and streamlining operations to improve system reliability. My background includes developing automation scripts that boost efficiency, authoring comprehensive technical documentation, and leading projects that bridge the gap between development and operations.
