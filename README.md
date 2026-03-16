@@ -1,12 +1,13 @@
 # 💫 About Me:
-I'm currently working in Xplore Sports Pvt. Ltd. as a cloud infrastructure support intern. 
-I am an Entry-level AWS Infrastructure / Site Reliability / DevOps Engineer with hands-on experience optimizing AWS environments and automating deployments using tools like Terraform, Ansible, and Docker. My expertise spans designing and managing CI/CD pipelines, containerization with Kubernetes, and implementing cost-saving solutions in cloud architectures.
+Aryan Tyagi serves as Business Development Manager at Xplore Sports Pvt. Ltd., a global sports networking platform dedicated to connecting athletes with clubs, academies, and opportunities across India and international sports ecosystems.
 
-I thrive on solving complex technical challenges, collaborating with cross-functional teams, and streamlining operations to improve system reliability. My background includes developing automation scripts that boost efficiency, authoring comprehensive technical documentation, and leading projects that bridge the gap between development and operations.
+In his role, Aryan focuses on expanding the platform’s reach by developing strategic partnerships with sports academies, clubs, and organizations. His work contributes to strengthening grassroots sports development while enabling athletes and institutions to access broader opportunities through technology-driven networking.
 
-Certified in DevOps Engineering (Intellipaat & IIT Roorkee) and as a Scrum Master (CSM), I am dedicated to continuous learning and operational excellence in cloud and DevOps environments. My passion for technology extends to personal projects, where I build and deploy AI-powered solutions and scalable backend services.
+Alongside his business development responsibilities, Aryan also manages the AWS cloud infrastructure supporting the organization’s digital platforms. He oversees critical AWS services that ensure the stability, performance, and scalability of web-based systems, while implementing cost optimization strategies and supporting operational efficiency through automation scripts.
 
-If you’re looking for someone with a proven track record in cloud support, automation, and DevOps best practices, let’s connect!
+His work reflects a unique intersection of sports ecosystem development and technology operations, contributing both to the growth of the sports network and the reliability of the underlying cloud infrastructure.
+
+Aryan is certified in DevOps Engineering (Intellipaat & IIT Roorkee), holds the Certified Scrum Master (CSM) credential, and is an AWS Certified Cloud Practitioner, reflecting his commitment to continuous learning and modern technology practices.
 
 
 ## 🌐 Socials:
